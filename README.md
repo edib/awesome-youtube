@@ -8,7 +8,7 @@
 [Dataschool.io](https://www.youtube.com/user/dataschool) [User]
 ### Programming Languages
 #### JavaScript
-[Dave Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+[Dave Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) [User]
 ## Language
 
 ### English
