@@ -4,7 +4,10 @@
 ## Agriculture
 ## Physics
 ## Computer Science
-### Design Principles
+
+### Software Architecture
+[Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) [Playlist]
+
 [Domain Driven Design and Microservices](https://www.youtube.com/watch?v=Km1fZ108UXU) [Video]
 
 [Microservices love Domain-Driven Design, why and how?](https://www.youtube.com/watch?v=ZJiFlgimHss) [Video]
