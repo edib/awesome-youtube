@@ -19,6 +19,11 @@
 ### Programming Languages
 #### JavaScript
 [Dave Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) [User]
+
+#### SQL 
+
+[Introduction to SQL (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt) [Playlist]
+
 ## Language
 
 ### English
