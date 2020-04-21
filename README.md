@@ -4,8 +4,17 @@
 ## Agriculture
 ## Physics
 ## Computer Science
+### General
+
+[Ben Eater](https://www.youtube.com/user/eaterbc) [User]
+
+[Joe James](https://www.youtube.com/user/joejamesusa) [User]
+
 
 ### Software Architecture
+
+[Mark Richards](https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w) [User]
+
 [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) [Playlist]
 
 [Domain Driven Design and Microservices](https://www.youtube.com/watch?v=Km1fZ108UXU) [Video]
@@ -16,9 +25,14 @@
 
 ### Machine Learning
 [Dataschool.io](https://www.youtube.com/user/dataschool) [User]
+[Python NLTK](https://gitlab.com/edib/gradutube.git) [Playlist]
 ### Programming Languages
 #### JavaScript
 [Dave Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) [User]
+
+### Python
+
+[Corey Schafer](https://www.youtube.com/user/schafer5) [User]
 
 #### SQL 
 
