@@ -55,11 +55,17 @@
 
 #### Kubernetes
 
+[Kubernetes Beginner Tutorials](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX) [Playlist]
+
 [Rancher Labs](https://www.youtube.com/channel/UCh5Xtp82q8wjijP8npkVTBA) [User]
 
 #### CI/CD Pipeline
 
 [Automation Step by Step - Raghav Pal](https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg) [User]
+
+[Jenkins](https://www.youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) [Playlist]
+
+
 
 
 
