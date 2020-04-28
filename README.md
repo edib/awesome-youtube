@@ -44,12 +44,21 @@
 
 ## Agriculture
 
+## Art
+
+[RapidFireArt](https://www.youtube.com/channel/UCDQNp22J8fGKdMytv0s3Zgg) [User]
+[Christopher Hart](https://www.youtube.com/channel/UCrd1j_IoMQDv_MEEGKLoFJg) [User]
+
 ## Computer Science
 ### General
+
+[freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) [User]
 
 [Ben Eater](https://www.youtube.com/user/eaterbc) [User]
 
 [Joe James](https://www.youtube.com/user/joejamesusa) [User]
+
+[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) [User]
 
 ### IT Infrastructure
 
@@ -87,12 +96,13 @@
 ### Programming Languages
 
 #### Java
-
+    
 [Java Brains](https://www.youtube.com/user/koushks) [User]
 
 #### JavaScript
 
 [Dave Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) [User]
+[Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) [Playlist]
 
 ### Python
 
@@ -130,6 +140,8 @@
 [MedCram - Medical Lectures Explained CLEARLY](https://www.youtube.com/channel/UCG-iSMVtWbbwDDXgXXypARQ) [User]
 
 [MedWild - Wilderness Medicine, Survival, Rescue](https://www.youtube.com/user/MedWildVideos) [User]
+
+[Speed Pharmacology](https://www.youtube.com/channel/UC-i2EBYXH6-GAglvuDIaufQ) [User]
 
 
 ## Motivation
