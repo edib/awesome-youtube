@@ -47,6 +47,7 @@
 ## Art
 
 [RapidFireArt](https://www.youtube.com/channel/UCDQNp22J8fGKdMytv0s3Zgg) [User]
+
 [Christopher Hart](https://www.youtube.com/channel/UCrd1j_IoMQDv_MEEGKLoFJg) [User]
 
 ## Computer Science
