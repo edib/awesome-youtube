@@ -32,6 +32,8 @@
 
 [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg) [User]
 
+[Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA) [User]
+
 ## Chemisty
 
 [FlinnScientific](https://www.youtube.com/user/FlinnScientific) [User]
@@ -143,6 +145,10 @@
 [MedWild - Wilderness Medicine, Survival, Rescue](https://www.youtube.com/user/MedWildVideos) [User]
 
 [Speed Pharmacology](https://www.youtube.com/channel/UC-i2EBYXH6-GAglvuDIaufQ) [User]
+
+[RCSBProteinDataBank](https://www.youtube.com/user/RCSBProteinDataBank) [User]
+
+[Anatomy & Physiology](https://www.youtube.com/playlist?list=PLybg94GvOJ9HVbNobTmFnOxXRn1dIpffc) [Playlist]
 
 
 ## Motivation
