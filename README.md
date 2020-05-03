@@ -24,6 +24,11 @@
 
 [The Science Asylum](https://www.youtube.com/channel/UCXgNowiGxwwnLeQ7DXTwXPg) [User]
 
+
+## Philosophy
+
+[Philosophy:CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR) [Playlist]
+
 ## Math
 
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) (User)
@@ -63,6 +68,8 @@
 
 [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) [User]
 
+[Artificial Intelligence:CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) [Playlist]
+
 ### IT Infrastructure
 
 #### Kubernetes
@@ -95,8 +102,15 @@
 
 ### Machine Learning
 [Dataschool.io](https://www.youtube.com/user/dataschool) [User]
+
 [Python NLTK](https://gitlab.com/edib/gradutube.git) [Playlist]
 ### Programming Languages
+
+#### Flutter
+
+[Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) [Playlist]
+
+[Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) [User]
 
 #### Java
     
@@ -105,6 +119,7 @@
 #### JavaScript
 
 [Dave Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) [User]
+
 [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) [Playlist]
 
 ### Python
@@ -115,13 +130,11 @@
 
 [Pretty Printed](https://www.youtube.com/channel/UC-QDfvrRIDB6F0bIO4I4HkQ) [User]
 
-
-
 #### SQL 
 
 [Introduction to SQL (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt) [Playlist]
 
-## Language
+## Languages
 
 ### English
 [EnglishAnyone](https://www.youtube.com/user/EnglishAnyone/) [User]
@@ -129,7 +142,6 @@
 [EWA: Learn English](https://www.youtube.com/channel/UC0mpRLFvHChkfD9m4paaN-Q) [User]
 
 [Learn English With TV Series](https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg) [User]
-
 
 
 ## Medicine and Biological Sciences
@@ -150,6 +162,7 @@
 
 [Anatomy & Physiology](https://www.youtube.com/playlist?list=PLybg94GvOJ9HVbNobTmFnOxXRn1dIpffc) [Playlist]
 
+[Anatomy & Physiology: CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8) [Playlist]
 
 ## Motivation
 
