@@ -84,10 +84,6 @@
 
 [Jenkins](https://www.youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) [Playlist]
 
-
-
-
-
 ### Software Architecture
 
 [Mark Richards](https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w) [User]
@@ -116,11 +112,28 @@
     
 [Java Brains](https://www.youtube.com/user/koushks) [User]
 
+[Java Tutorial For Beginners (Step by Step tutorial)](https://www.youtube.com/playlist?list=PLS1QulWo1RIbfTjQvTdj8Y6yyq4R7g-Al) [Playlist]
+
+[Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) [Playlist]
+
+[Spring Boot Tutorial for Beginners (Java Framework)](https://www.youtube.com/watch?v=vtPkZShrvXQ) [Video]
+
+[Spring Full Course - Learn Spring Framework in 4 Hours](https://www.youtube.com/watch?v=VvGjZgqojMc) [Video]
+
+
 #### JavaScript
 
 [Dave Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) [User]
 
 [Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) [Playlist]
+
+[Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) [Playlist]
+
+[Complete React Tutorial (with Redux)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG) [Playlist]
+
+[React Native Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) [Playlist]
+
+[Object Oriented JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) [Playlist]
 
 ### Python
 
@@ -133,6 +146,14 @@
 #### SQL 
 
 [Introduction to SQL (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt) [Playlist]
+
+#### TypeScript
+
+[TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) [Video]
+
+#### Web 
+
+[HTML & CSS Crash Course Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) [Playlist]
 
 ## Languages
 
