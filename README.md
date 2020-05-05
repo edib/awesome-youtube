@@ -70,7 +70,17 @@
 
 [Artificial Intelligence:CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b) [Playlist]
 
-### IT Infrastructure
+[Linux Commands for Beginners](https://www.youtube.com/playlist?list=PLT98CRl2KxKHaKA9-4_I38sLzK134p4GJ) [Playlist]
+
+### Databases
+
+#### PostgreSQL
+
+[Introduction to SQL (Computer Science)](https://www.youtube.com/watch?v=YufocuHbYZo&list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt) [Playlist]
+
+[Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4) [Video]
+
+[SQL Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN) [Playlist]
 
 #### Kubernetes
 
