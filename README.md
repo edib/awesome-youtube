@@ -92,6 +92,8 @@
 
 [Automation Step by Step - Raghav Pal](https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg) [User]
 
+[Continuous Delivery 101](https://www.youtube.com/playlist?list=PLYcy44QqzleK37bEsG5Jh9RQDmUaBoMra) [Playlist]
+
 [Jenkins](https://www.youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) [Playlist]
 
 ### Software Architecture
@@ -145,6 +147,8 @@
 
 [Object Oriented JavaScript](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7) [Playlist]
 
+[ReactJS Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS) [Playlist]
+
 ### Python
 
 [Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-) [Playlist]
@@ -174,6 +178,10 @@
 
 [Learn English With TV Series](https://www.youtube.com/channel/UCKgpamMlm872zkGDcBJHYDg) [User]
 
+[English Lessons with Adam - Learn English [engVid]](https://www.youtube.com/user/EnglishTeacherAdam/videos) [User]
+
+
+
 
 ## Medicine and Biological Sciences
 
@@ -194,6 +202,8 @@
 [Anatomy & Physiology](https://www.youtube.com/playlist?list=PLybg94GvOJ9HVbNobTmFnOxXRn1dIpffc) [Playlist]
 
 [Anatomy & Physiology: CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOAKed_MxxWBNaPno5h3Zs8) [Playlist]
+
+[Molecular Memory](https://www.youtube.com/channel/UCB-mWvA-2aXx4UTVAFS4tLw) [User]
 
 ## Motivation
 
