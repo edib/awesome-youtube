@@ -80,6 +80,8 @@
 
 [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4) [Video]
 
+[PostgreSQL Database Tutorials](https://www.youtube.com/playlist?list=PLWhC0zeznqknTPmcSrKmnV75Zr3QLfq7e) [Playlist]
+
 [SQL Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN) [Playlist]
 
 #### Kubernetes
