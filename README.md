@@ -39,6 +39,8 @@
 
 [Professor Dave Explains](https://www.youtube.com/channel/UC0cd_-e49hZpWLH3UIwoWRA) [User]
 
+[Essence of linear algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) [Playlist]
+
 ## Chemisty
 
 [FlinnScientific](https://www.youtube.com/user/FlinnScientific) [User]
