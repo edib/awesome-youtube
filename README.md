@@ -2,16 +2,38 @@
 A curated list for youtube educational videos, playlists and channels
 
 ## Contents
-- [General Science](#general-science)
-- [Philosophy](#philosophy)
-- [Math](#math)
-- [Physics](#physics)
-- [Chemisty](#chemisty)
-- [Engineering](#engineering)
-- [Art](#art)
-- [Computer Science](#computer-science)
-- [Languages](#languages)
-- [Medicine and Biological Sciences](#medical-and-biological-sciences)
+- [Welcome to "Learn almost anything on Youtube"](#welcome-to-learn-almost-anything-on-youtube)
+  - [Contents](#contents)
+  - [General Science](#general-science)
+  - [Philosophy](#philosophy)
+  - [Math](#math)
+  - [Physics](#physics)
+  - [Chemisty](#chemisty)
+  - [Engineering](#engineering)
+  - [Art](#art)
+  - [Computer Science](#computer-science)
+    - [General](#general)
+    - [Databases](#databases)
+      - [PostgreSQL](#postgresql)
+    - [Containers](#containers)
+    - [Kubernetes](#kubernetes)
+    - [CI/CD Pipeline](#cicd-pipeline)
+    - [Software Architecture](#software-architecture)
+    - [Machine Learning](#machine-learning)
+    - [Programming Languages](#programming-languages)
+  - [VR & AR](#vr--ar)
+      - [Flutter](#flutter)
+      - [Ionic](#ionic)
+      - [Java](#java)
+      - [JavaScript](#javascript)
+    - [Python](#python)
+      - [SQL](#sql)
+      - [TypeScript](#typescript)
+      - [Web](#web)
+  - [Languages](#languages)
+    - [English](#english)
+  - [Medicine and Biological Sciences](#medicine-and-biological-sciences)
+  - [Motivation](#motivation)
 
 
 
@@ -96,13 +118,19 @@ A curated list for youtube educational videos, playlists and channels
 
 [SQL Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN) [Playlist]
 
-#### Kubernetes
+### Containers
+
+[Learn Docker](https://www.youtube.com/watch?v=MbenLNMMl-4&list=PL34sAs7_26wO2pVeB-2xdI76Tp8t704UN) [Playlist]
+
+### Kubernetes
+
+[Learn Kubernetes](https://www.youtube.com/watch?v=YzaYqxW0wGs&list=PL34sAs7_26wNBRWM6BDhnonoA5FMERax0) [Playlist]
 
 [Kubernetes Beginner Tutorials](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8EU_Oocu6RkNPpYpaamtXX) [Playlist]
 
 [Rancher Labs](https://www.youtube.com/channel/UCh5Xtp82q8wjijP8npkVTBA) [User]
 
-#### CI/CD Pipeline
+### CI/CD Pipeline
 
 [Automation Step by Step - Raghav Pal](https://www.youtube.com/channel/UCTt7pyY-o0eltq14glaG5dg) [User]
 
@@ -136,6 +164,9 @@ A curated list for youtube educational videos, playlists and channels
 [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) [Playlist]
 
 [Marcus Ng](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) [User]
+
+#### Ionic
+[Simon Grimm](https://www.youtube.com/user/saimon1924) [User]
 
 #### Java
     
